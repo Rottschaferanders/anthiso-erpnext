@@ -1,0 +1,7 @@
+{
+  "defaultDeploymentType": "SINGLE_VM",
+  "imageName": "erpnext-v20200305",
+  "projectId": "click-to-deploy-images",
+  "templateName": "nonexistent_template",
+  "useSolutionPackage": true
+}
